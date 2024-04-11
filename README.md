@@ -6,7 +6,7 @@ Goals:
      - call functions from class
      - access data stored in class
 - learn how to use github
-     - fork
+     - branch
      - push
      - pull
      - pull request
@@ -30,10 +30,10 @@ intro to GitHub:
 
  github is a version control system. it allows multiple people to work on 1 project without major conflicts.
 
- fork - when working on something, you make a fork so that you do not touch the globally used file. this is because mistakes happen and 
+ branch - when working on something, you make a branch so that you do not touch the globally used file. this is because mistakes happen and 
  you dont want to mess up the file that everyone else is working on
 
  pull - pulling from github moves the version of the code online to your personal computer
 
  commit / push - when you finish any amount of work that you want to save, you commit your work and add a message. for example:
- "created school class". once your work is commited, you do a git push to send your work to github (make sure in correct fork)
+ "created school class". once your work is commited, you do a git push to send your work to github (make sure in correct branch)
